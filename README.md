@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shalimullah
 - 👀 I’m interested in c,c++,java,phyton
-- 🌱 I’m currently learning c-programming
+- 🌱 I’m currently learning Java Development 
 - 💞️ I’m looking to collaborate on helping others
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100084254140466
 
